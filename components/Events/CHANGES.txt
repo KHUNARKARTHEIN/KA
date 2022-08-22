@@ -1,0 +1,19 @@
+EVENTS 2.1
+* Remove country as its covered by location
+
+EVENTS 2.0
+* Add a option to sort a events by dated created (default order) , you may change that to the old order by setting EVENTS_SORT_BY_DATE to false in the ossn_com.php file
+* Add a wall container button.
+
+EVENTS 1.8
+* Fixed enter the location issue
+* Hide buttons interested,  not...etc for non-loggedin users
+* Fix the issues with buttons due to the bug in core
+
+EVENTS 1.2
+
+* Removed Google API
+
+EVENTS 1.1
+
+* Fixed , the not interested button not working.

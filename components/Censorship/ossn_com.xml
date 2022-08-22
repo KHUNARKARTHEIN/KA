@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component xmlns="http://www.opensource-socialnetwork.org/v/3.0">
+    <name>Censorship</name>
+    <id>Censorship</id>
+    <author>Core Team</author>
+    <description>A word censorship from comments or wall posts.</description>
+    <license>Commercial</license>
+    <author_url>http://www.informatikon.com/</author_url>
+    <license_url>https://www.softlab24.com/license/commercial</license_url>
+    <version>1.3</version>
+	<requires>
+		<type>ossn_version</type>
+		<version>4.0</version>
+	</requires>
+</component>

@@ -1,0 +1,3 @@
+Awesome 6.2
+
+- Restrict only 6 items on topbar move rest in dropdown

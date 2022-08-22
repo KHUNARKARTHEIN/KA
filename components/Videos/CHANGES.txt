@@ -1,0 +1,16 @@
+VIDEOS 5.5
+============
+* Hide a comments, likes if user is not member of group
+
+VIDEOS 5.2
+===========
+* Added support for the group videos
+* Fixes minior bugs
+
+VIDEOS 5.0
+==========
+
+* Added support for video conversion
+* Added a progress bar for video conversion
+* Added more video formats .3gp , .mov, .wmv, .avi
+* Added video upload progress bar.

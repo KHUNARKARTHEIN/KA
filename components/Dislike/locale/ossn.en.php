@@ -1,0 +1,22 @@
+<?php
+/**
+ * Open Source Social Network
+ *
+ * @packageOpen Source Social Network
+ * @author    Open Social Website Core Team <info@informatikon.com>
+ * @copyright 2014 iNFORMATIKON TECHNOLOGIES
+ * @license   General Public Licence http://www.opensource-socialnetwork.org/licence
+ * @link      http://www.opensource-socialnetwork.org/licence
+ */
+$en = array(
+			'people:dislike:this' => 'People who disliked this post',
+			'ossn:dislike' => 'Dislike',
+			'ossn:undislike' => 'Undislike',
+			
+	'ossn:dislike:this' => '%s disliked this',
+	'ossn:dislike:you:and:this' => 'You and %s disliked this',
+	'ossn:dislike:people' => '%s People',
+	'ossn:dislike:person' => '%s Person',
+	'ossn:disliked:you' => 'You disliked this',
+			);
+ossn_register_languages('en', $en); 

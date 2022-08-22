@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component xmlns="http://www.opensource-socialnetwork.org/v/3.0">
+    <name>Report Post or Comment</name>
+    <id>Report</id>
+    <author>Core Team</author>
+    <description>Report post or comment to site admin</description>
+    <license>SOFTLAB24 COMMERICAL ITEMS LICENSE v1</license>
+    <author_url>https://www.softlab24.com/</author_url>
+    <license_url>https://www.softlab24.com/license/</license_url>
+    <version>2.2</version>
+	<requires>
+		<type>ossn_version</type>
+		<version>5.2</version>
+	</requires>
+</component>
